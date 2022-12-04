@@ -10,7 +10,8 @@
 ![gambar](gambar/2.png)
 # Hasil Output
 ![gambar](gambar/3.png)
-Tugas Praktikum
+# Tugas Praktikum
+![gambar](gambar/5.png)
 
 ```
 # riski probo sadewo
