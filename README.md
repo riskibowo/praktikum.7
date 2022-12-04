@@ -6,4 +6,5 @@
 ## latihan 1 
 ### ubahlah kode funsi di bawah ini menggunakan lambda
 ![gambar](gambar/1.1.png)
-# code
+### code
+![gambar](gambar/2.png)
