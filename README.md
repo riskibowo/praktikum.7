@@ -99,3 +99,4 @@ while True:
         print("== Pilihlah Menu Yang Tersedia ==")
         print("<><><><><><><><><><><><><><><><>")
 ```
+![gambar](gambar/4.png)
