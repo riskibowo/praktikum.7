@@ -1,5 +1,5 @@
 # praktikum.7
-### Nama : Faiz Dzaki Ramadhani
+### Nama : riski probo sadewo
 ### Nim : 31221223
 ### Kelas : TI.22.A2
 ### Tugas Latihan 1
