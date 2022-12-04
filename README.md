@@ -8,3 +8,5 @@
 ![gambar](gambar/1.1.png)
 ### code
 ![gambar](gambar/2.png)
+# Hasil Output
+![gambar](gambar/3.png)
