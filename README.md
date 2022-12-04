@@ -1,6 +1,6 @@
 # praktikum.7
 ### Nama : riski probo sadewo
-### Nim : 31221223
+### Nim : 312210191
 ### Kelas : TI.22.A2
 ### Tugas Latihan 1
 ## latihan 1 
